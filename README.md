@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Welcome%20to%20yeon%20hee's%20Github%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=yeon%20hee's%20Github%20%F0%9F%A4%97)
   
 </div>
 
@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
   #### :fire: I aim to become a Data AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, NamSeoul University(NSU)
+  #### :mortar_board: Department of Intelligent Information and Communication Engineering, NamSeoul University(NSU)
   <br/><br/>
   
   ## 🧱 Tech Stack
@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 
   ### Tools
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -32,15 +31,15 @@
 
   ### 📫 Contact
   - 📧 Email: **heimsih0902@gmail.com**
-  - 📝 [TISTORY]((https://hee-yeon-02.tistory.com/)) (있는 경우 추가하세요)
+  - 📝 [TISTORY]((https://hee-yeon-02.tistory.com/))
 
   <br/>
 
-  ## 🤔 Github Stats
+ <!-- ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+  -->
 </div>
 
 <!--
