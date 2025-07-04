@@ -1,15 +1,14 @@
 <div>
   
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=yeon%20hee's%20Github%20%F0%9F%A4%97)
-  
+  <!--Header
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=yeon%20hee's%20Github%20)
+  -->
 </div>
 
 <div>
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
   #### :fire: I aim to become a Data AI Engineer.<br/>
   #### :mortar_board: Department of Intelligent Information and Communication Engineering, NamSeoul University(NSU)
   <br/><br/>
