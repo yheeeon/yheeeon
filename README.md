@@ -29,7 +29,7 @@
   <br/>
 
   ### 📫 Contact
-  - 📧 Email: **heimsih0902@gmail.com**
+  - 📧 Email: **heimish0902@gmail.com**
   - 📝 [TISTORY]((https://hee-yeon-02.tistory.com/))
 
   <br/>
