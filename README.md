@@ -107,7 +107,18 @@
 #### 핵심 기능
 - 사용자 선호 기반 추천 시스템  
 - 영양 정보 기반 레시피 필터링  
-- 공공데이터 API 연동  
+- 공공데이터 API 연동
+
+---
+
+### 6️⃣ AIS Data Analysis Development of Deep Learning Module for Ship Safety Route  
+> AIS 데이터 분석을 통한 선박 안전항로 딥러닝 모듈 개발  
+
+🔗 **바로가기**  : [Annual Conference of KIPS(한국정보처리학회:학술대회논문집)](https://www.koreascience.kr/article/CFKO202433161624753.view?orgId=anpor&hide=breadcrumb,journalinfo)
+
+#### 핵심 기능
+- MMSI 데이터를 이용한 GRU 딥러닝 모델로 예측  
+- AIS 정보 활용
 
 ---
 
