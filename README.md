@@ -121,9 +121,9 @@
 
 ## 📫 Contact
 
-**Email** : mailto:heimish0902@gmail.com  
+**Email** : heimish0902@gmail.com  
 
-**Tistory Blog** : https://hee-yeon-02.tistory.com  
+**Tistory** : https://hee-yeon-02.tistory.com  
 
 **LinkedIn** : https://www.linkedin.com/in/연희-임-936a81374  
 
