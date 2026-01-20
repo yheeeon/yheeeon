@@ -30,14 +30,11 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ### Data & AI
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
@@ -116,16 +113,12 @@
 
 ## 📫 Contact
 
-📧 **Email**  
-👉 mailto:heimish0902@gmail.com  
+**Email** : mailto:heimish0902@gmail.com  
 
-📝 **Tistory Blog**  
-👉 https://hee-yeon-02.tistory.com  
+**Tistory Blog** : https://hee-yeon-02.tistory.com  
 
-💼 **LinkedIn**  
-👉 https://www.linkedin.com/in/연희-임-936a81374  
+**LinkedIn** : https://www.linkedin.com/in/연희-임-936a81374  
 
-🐙 **GitHub**  
-👉 https://github.com/yheeeon  
+**GitHub** : https://github.com/yheeeon  
 
 ---
