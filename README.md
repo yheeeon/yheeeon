@@ -7,7 +7,7 @@
 ## 🌱 Interests
 
 - **Data Engineering**
-  - ETL Pipeline, Data Warehouse, Automation
+  - ETL Pipeline, Automation
 - **Machine Learning / AI**
   - Recommendation System, Computer Vision, LLM
 - **Cloud & DevOps**
