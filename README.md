@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yeonhee  
 
-**Aspiring Data Engineer / AI Engineer**  
+**Aspiring Full Stack Data Engineer**  
 
 ---
 
@@ -106,9 +106,20 @@
 - 영양 정보 기반 레시피 필터링  
 - 공공데이터 API 연동
 
+  ---
+
+### 6️⃣AI:Fit  
+> 실시간 자세 인식 기반 크로스플랫폼 헬스케어 애플리케이션 개발  
+
+🔗 **Repository**  : [AI:Fit GitHub Repository](https://github.com/yheeeon/AIfit)
+
+#### 핵심 기능
+- Flutter 기반 크로스플랫폼 앱 개발을 통해 Android/iOS 동시 지원 환경 구축
+- TensorFlow Lite + MediaPipe Pose Detection을 활용한 실시간 자세 인식 시스템 구현
+
 ---
 
-### 6️⃣ AIS Data Analysis Development of Deep Learning Module for Ship Safety Route  
+### 7️⃣ AIS Data Analysis Development of Deep Learning Module for Ship Safety Route  
 > AIS 데이터 분석을 통한 선박 안전항로 딥러닝 모듈 개발  
 
 🔗 **바로가기**  : [Annual Conference of KIPS(한국정보처리학회:학술대회논문집)](https://www.koreascience.kr/article/CFKO202433161624753.view?orgId=anpor&hide=breadcrumb,journalinfo)
