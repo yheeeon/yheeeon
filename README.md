@@ -15,14 +15,6 @@
 
 ---
 
-## 💼 Careers & Goals
-
-- Senior student in Intelligent Information & Communication Engineering  
-- Interested in Data Engineering and AI Engineering  
-- Goal: Data Engineer / AI Engineer
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
