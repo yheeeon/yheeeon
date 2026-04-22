@@ -1,135 +1,114 @@
-# Hi 👋, I'm Yeonhee  
+<div align="center">
 
-**Aspiring Full Stack Data Engineer**  
+# Hi 👋, I'm Yeonhee
+
+### 🚀 Aspiring  Data Engineer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+ML+Engineer;Turning+Data+into+Real+Value;Building+End-to-End+AI+Pipelines;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yheeeon&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/yheeeon?label=Followers&style=social)
+
+</div>
 
 ---
 
-## 🌱 Interests
+## 🌱 About Me
 
-- **Data Engineering**
-  - ETL Pipeline, Automation
-- **Machine Learning / AI**
-  - Recommendation System, Computer Vision, LLM
-- **Cloud & DevOps**
-  - AWS, Docker, CI/CD, Infrastructure Automation
+```yaml
+name: "임연희 (Yeonhee Lim)"
+role: "Aspiring Data Engineer"
+focus:
+  - Data Engineering   # ETL, Pipeline Automation
+  - Machine Learning   # Recommendation, LLM
+  - Cloud & DevOps     # AWS, Docker, CI/CD
+```
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+### 📊 Data & AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-
----
-
-## 🤝 Community & Activities
-
-- Sparta Coding Club Online Supporter  
-- AI / Data Study Group Member  
-- NHN Cloud AppPaaS Supporter
----
-
-## 🌐 Featured Projects
-
-### 1️⃣ GoZip
-> LLM을 활용한 부동산 매물 추천 서비스
-
-🔗 **Repository** : [GoZip GitHub Repository](https://github.com/yheeeon/GoZip)
-
-#### 핵심 기능
-- 하이브리드 챗봇 시스템
-- 실거래가 분석 모델
-- 중개사 신뢰도 모델
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### 2️⃣ MindCare  
-> AI 기반 정신 건강 상담 챗봇 플랫폼  
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-🔗 **Repository** : [MindCare GitHub Repository](https://github.com/yheeeon/MindCare)
-
-#### 핵심 기능
-- 심리 상담 챗봇 시스템  
-- 감정 분석 기반 대화 모델  
-- 사용자 기록 관리 시스템  
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-### 3️⃣ MagicBot  
-> 대화형 AI 챗봇 서비스  
+## 📊 GitHub Stats
 
-🔗 **Repository** : [MagicBot GitHub Repository](https://github.com/yheeeon/MagicBot)
+<div align="center">
 
-#### 핵심 기능
-- AI 기반 대화 시스템  
-- 사용자 질의 응답 자동화  
-- 챗봇 API 서버 구축   
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yheeeon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yheeeon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
----
+<br/>
 
-### 4️⃣ HotelPredict-AI  
-> 호텔 예약 수요 예측 AI 시스템  
+<img src="https://streak-stats.demolab.com?user=yheeeon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-🔗 **Repository** : [HotelPredict-AI GitHub Repository](https://github.com/yheeeon/HotelPredict-AI)
-
-#### 핵심 기능
-- 호텔 예약 데이터 분석  
-- 수요 예측 머신러닝 모델 구축  
-- 예측 결과 시각화  
+</div>
 
 ---
 
-### 5️⃣ Recipe_rcm  
-> 사용자 맞춤형 레시피 추천 시스템  
+## 🏆 GitHub Trophies
 
-🔗 **Repository**  : [Recipe_rcm GitHub Repository](https://github.com/yheeeon/Recipe_rcm)
+<div align="center">
 
-#### 핵심 기능
-- 사용자 선호 기반 추천 시스템  
-- 영양 정보 기반 레시피 필터링  
-- 공공데이터 API 연동
+![trophy](https://github-profile-trophy.vercel.app/?username=yheeeon&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
-  ---
-
-### 6️⃣AI:Fit  
-> 실시간 자세 인식 기반 크로스플랫폼 헬스케어 애플리케이션 개발  
-
-🔗 **Repository**  : [AI:Fit GitHub Repository](https://github.com/yheeeon/AIfit)
-
-#### 핵심 기능
-- Flutter 기반 크로스플랫폼 앱 개발을 통해 Android/iOS 동시 지원 환경 구축
-- TensorFlow Lite + MediaPipe Pose Detection을 활용한 실시간 자세 인식 시스템 구현
+</div>
 
 ---
 
-### 7️⃣ AIS Data Analysis Development of Deep Learning Module for Ship Safety Route  
-> AIS 데이터 분석을 통한 선박 안전항로 딥러닝 모듈 개발  
+## 📈 Contribution Activity
 
-🔗 **바로가기**  : [Annual Conference of KIPS(한국정보처리학회:학술대회논문집)](https://www.koreascience.kr/article/CFKO202433161624753.view?orgId=anpor&hide=breadcrumb,journalinfo)
+<div align="center">
 
-#### 핵심 기능
-- MMSI 데이터를 이용한 GRU 딥러닝 모델로 예측  
-- AIS 정보 활용
+![Yeonhee's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yheeeon&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/yheeeon/yheeeon/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
 ## 📫 Contact
 
-**Email** : heimish0902@gmail.com  
+<div align="center">
 
-**Tistory** : https://hee-yeon-02.tistory.com  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heimish0902@gmail.com)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://hee-yeon-02.tistory.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/연희-임-936a81374)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yheeeon)
 
-**LinkedIn** : https://www.linkedin.com/in/연희-임-936a81374  
-
-**GitHub** : https://github.com/yheeeon  
-
----
+</div>
