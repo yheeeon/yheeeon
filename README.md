@@ -48,22 +48,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-
-## Monthly Contribution Activity
-
-<div align="center">
-
-![Yeonhee's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yheeeon&theme=tokyo-night&hide_border=true&area=true&interval=month)
-
-</div>
-
-
-
-## Contribution Snake
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/yheeeon/yheeeon/output/github-contribution-grid-snake.svg)
-
-</div>
