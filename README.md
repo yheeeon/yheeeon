@@ -16,8 +16,7 @@
 
 ## 🌱 About Me
 
-- Aspiring Data Engineer
-- Data Engineering · Machine Learning · LLM · Cloud & DevOps
+- Data Engineering · Machine Learning · LLM · Cloud 
 
 
 ## 🛠 Tech Stack
